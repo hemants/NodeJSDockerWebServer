@@ -1,5 +1,7 @@
 FROM node:carbon
 
+MAINTAINER Hemant Sawsakde "hemant.sawsakde@gmail.com"
+
 # Create app directory
 WORKDIR /usr/src/app
 
