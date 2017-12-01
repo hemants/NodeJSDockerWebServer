@@ -1,4 +1,10 @@
 # NodeJSDockerWebServer
+
+## Required software
+  Docker
+  NodeJs\ExpressJs
+  Ubuntu 
+
 ## Building your Docker image
   $ docker build -t hemants/nodejsdockerwebserver .
 
